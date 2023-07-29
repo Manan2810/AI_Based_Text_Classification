@@ -1,0 +1,1 @@
+Capital budgeting involves evaluating investment projects and allocating capital to maximize returns. It involves assessing the feasibility, profitability, and risk profile of potential investments to make decisions on resource allocation. Techniques like net present value (NPV), internal rate of return (IRR), and payback period are commonly used in capital budgeting analysis.
